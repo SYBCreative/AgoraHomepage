@@ -62,7 +62,7 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              Welcome To <span className="text-color-primary">Agora</span>
+              Welcome To <span className="text-color-secondary">Agora</span>
             </h1>
             <div className="container-xs">
               <p
@@ -75,7 +75,7 @@ const Hero = ({
                 <ButtonGroup>
                   <Button
                     tag="a"
-                    color="primary"
+                    color="secondary"
                     wideMobile
                     href="https://www.linkedin.com/in/james-coholan-262b7592/"
                   >
