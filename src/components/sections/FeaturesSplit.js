@@ -82,7 +82,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-01.png")}
+                  src={require("./../../assets/images/3.png")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -100,8 +100,7 @@ const FeaturesSplit = ({
                 </div>
                 <h3 className="mt-0 mb-12">Automated Shows</h3>
                 <p className="m-0">
-                  Python programming to beat & Key Match music for an infinite
-                  show.
+                  Digital Artists Auto-Mixing Music for the "Infinite Concert"
                 </p>
               </div>
               <div
@@ -112,7 +111,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-02.png")}
+                  src={require("./../../assets/images/1.png")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -139,7 +138,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-03.png")}
+                  src={require("./../../assets/images/2.png")}
                   alt="Features split 03"
                   width={528}
                   height={396}

@@ -19,12 +19,12 @@ const Home = () => {
         imageFill
         className="illustration-section-02"
       />
-
-      <Cta split />
     </>
   );
 };
 
 export default Home;
+
+//<Cta split />
 
 //<Testimonial topDivider />
