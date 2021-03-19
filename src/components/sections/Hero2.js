@@ -78,7 +78,7 @@ const Hero = ({
             data-reveal-delay="800"
           >
             <a
-              data-video="https://player.vimeo.com/video/524406839"
+              data-video="https://www.youtube.com/embed/QeVeqU00p7M"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
@@ -97,7 +97,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/524406839"
+            video="https://www.youtube.com/embed/QeVeqU00p7M"
             videoTag="iframe"
           />
         </div>
