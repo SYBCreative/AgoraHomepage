@@ -62,35 +62,14 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              Welcome To <span className="text-color-secondary">Agora</span>
+              View <span className="text-color-secondary">Demo</span>
             </h1>
             <div className="container-xs">
               <p
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
-              >
-                The Virtual Festival Platform
-              </p>
-              <div className="reveal-from-bottom" data-reveal-delay="600">
-                <ButtonGroup>
-                  <Button
-                    tag="a"
-                    color="dark"
-                    wideMobile
-                    href="https://www.linkedin.com/in/james-coholan-262b7592/"
-                  >
-                    Whitepaper
-                  </Button>
-                  <Button
-                    tag="a"
-                    color="dark"
-                    wideMobile
-                    href="https://www.youtube.com/watch?v=Xak8aGTgMTo"
-                  >
-                    Video
-                  </Button>
-                </ButtonGroup>
-              </div>
+              ></p>
+              <div className="reveal-from-bottom" data-reveal-delay="600"></div>
             </div>
           </div>
           <div
@@ -104,21 +83,16 @@ const Hero = ({
               aria-controls="video-modal"
               onClick={openModal}
             >
-              <video
-                className="video-wrapper"
-                autoPlay
-                loop
-                muted
-                width={1793}
-                height={1000}
-                fluid
-                playsInline
-                startTime
-              >
-                <source src={sample} type="video/mp4" />
-              </video>
+              <Image
+                className="has-shadow"
+                src={require("./../../assets/images/video-placeholder.png")}
+                alt="Hero"
+                width={896}
+                height={504}
+              />
             </a>
           </div>
+
           <Modal
             id="video-modal"
             show={videoModalActive}
