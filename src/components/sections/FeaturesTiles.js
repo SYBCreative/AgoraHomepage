@@ -43,9 +43,9 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "Build up the whole picture",
+    title: "Virtual Music Experience With your Friends",
     paragraph:
-      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.",
+      "Agora seeks to deliver the exhilaration of a live show digitally. An order of magnitude the experience for a fraction of the cost.",
   };
 
   return (
@@ -69,7 +69,8 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Unreal Engine</h4>
                   <p className="m-0 text-sm">
-                    Harnessing the photo-real cpabiltiies of he Unreal Engine.
+                    Harnessing the photo-real, real-time capabilities of the
+                    Unreal Engine.
                   </p>
                 </div>
               </div>
@@ -93,7 +94,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Nvidia GPU</h4>
                   <p className="m-0 text-sm">
-                    The latest Nvidia GPU's to render photo real real time
+                    The latest Nvidia GPU's to render photo real real-time
                     experience.
                   </p>
                 </div>
@@ -118,7 +119,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Cloud Based</h4>
                   <p className="m-0 text-sm">
-                    Hosted on the cloud for scalbility and access to
+                    Hosted on the cloud for scalability and access to
                     functionality.
                   </p>
                 </div>
@@ -138,11 +139,11 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Scalable Online Expeirence</h4>
+                  <h4 className="mt-0 mb-8">
+                    Scalable Online Music Experience
+                  </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Inherently social, the next iteration of media.
                   </p>
                 </div>
               </div>
@@ -188,8 +189,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Innovation Focused</h4>
                   <p className="m-0 text-sm">
-                    Always embracing the latest in tech to maximize output
-                    quality.
+                    Embracing the state of the art to maximize output quality.
                   </p>
                 </div>
               </div>

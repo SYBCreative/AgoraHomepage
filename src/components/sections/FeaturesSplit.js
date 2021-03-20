@@ -71,7 +71,7 @@ const FeaturesSplit = ({
                 <h3 className="mt-0 mb-12">Digital Artists</h3>
                 <p className="m-0">
                   Everything people love about their favorite artists,
-                  digitized, automated and scaled past the physical bounds.
+                  digitized, automated, and scaled past physical bounds.
                 </p>
               </div>
               <div
@@ -100,7 +100,7 @@ const FeaturesSplit = ({
                 </div>
                 <h3 className="mt-0 mb-12">Automated Shows</h3>
                 <p className="m-0">
-                  Digital Artists Auto-Mixing Music for the "Infinite Concert"
+                  Digital Artists Auto-Mixing Music for the "Infinite Concert."
                 </p>
               </div>
               <div
